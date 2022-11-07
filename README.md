@@ -5,6 +5,8 @@ Un programma che riconosce la faccia di una persona che gli viene passata tramit
 ATTENZIONE:
   
   Prima di poter usufruire del programma installare le seguenti librerie e eseguire i seguenti passaggi:
+  
+    - Installare il programma CMake (https://cmake.org/download/)
     
     - Installare la libreria OpenCV (pip install opencv-python)
     
